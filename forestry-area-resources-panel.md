@@ -1,0 +1,2 @@
+# forestry-area-resources-panel
+
