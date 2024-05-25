@@ -1,6 +1,6 @@
 # 10 Tips for Making Money in Cities: Skylines
 
-![](images/mixed-use-residential.jpg)
+![Mixed use residential area](/images/mixed-use-residential.jpg)
 
 In Cities: Skylines, money isn’t too hard to make. Once the city reaches a few tens of thousands - assuming it’s relatively well-managed - you’ll probably be sitting on a few million in the bank and have enough to build pretty much whatever you need.
 
@@ -68,4 +68,4 @@ In most cases, you can leave budget sliders at 100%. They give diminishing retur
 
 But they’re really handy in pinch, and especially early on. For example, putting up the electricity budget will increase your power output without needing to build new generators. That gives you enough time to squeeze past the next population milestone without suffering through blackouts.
 
-*Thanks for reading! I hope you found these ideas handy. If there’s anything really good I missed out,* [*let me know*](_pages/about.md)*. I’d be glad to add it.*
+*Thanks for reading! I hope you found these ideas handy. If there’s anything really good I missed out,* [*let me know*](/about.md)*. I’d be glad to add it.*
