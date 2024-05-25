@@ -1,6 +1,6 @@
 # 10 Tips for Making Money in Cities: Skylines
 
-[![](https://www.lovecitiesskylines.com/wp-content/uploads/2018/11/mixed-use-residential.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/11/mixed-use-residential.jpg)
+![](images/mixed-use-residential.jpg)
 
 In Cities: Skylines, money isn’t too hard to make. Once the city reaches a few tens of thousands - assuming it’s relatively well-managed - you’ll probably be sitting on a few million in the bank and have enough to build pretty much whatever you need.
 
@@ -55,7 +55,8 @@ The main to know is that early on, sticking to ground level will help keep your 
 Trains, particularly, are really hard to make profitable. Actually, I’ve never managed even to break even with my train network. That doesn’t matter much once you’ve built the city up and have cash to spare. But early on, it’s best to stick to services that easy to budget-neutral.
 
 Buses are the obvious answer here. They use the existing road network, so their main additional cost is the depot. The most routes you add, the more the depot cost is lowered per bus.
-I’ve done a rundown of [all the transit type here](https://www.lovecitiesskylines.com/quick-guide-every-type-public-transport/).
+
+I’ve done a rundown of [all the transit type here](guide-every-type-public-transport.md).
 
 ## Mothball buildings you’re not using
 
@@ -67,4 +68,4 @@ In most cases, you can leave budget sliders at 100%. They give diminishing retur
 
 But they’re really handy in pinch, and especially early on. For example, putting up the electricity budget will increase your power output without needing to build new generators. That gives you enough time to squeeze past the next population milestone without suffering through blackouts.
 
-*Thanks for reading! I hope you found these ideas handy. If there’s anything really good I missed out,* [*let me know*](https://www.lovecitiesskylines.com/about/)*. I’d be glad to add it.*
+*Thanks for reading! I hope you found these ideas handy. If there’s anything really good I missed out,* [*let me know*](_pages/about.md)*. I’d be glad to add it.*

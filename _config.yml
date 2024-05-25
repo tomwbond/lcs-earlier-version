@@ -1,0 +1,7 @@
+title: "Love Cities: Skylines"
+logo: 
+description: Guides and tips for everyone's favourite city builder
+google_analytics:
+remote_theme: tomwbond/fast_template
+plugins:
+- jekyll-remote-theme

@@ -1,6 +1,6 @@
 # After Dark Review: the Tourism Expansion
 
-[![Leisure specialisation around the casino](https://www.lovecitiesskylines.com/wp-content/uploads/2018/09/leisure-specialisation.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/09/leisure-specialisation.jpg)
+![Leisure specialisation around the casino](images/leisure-specialisation.jpg)
 After Dark was the first expansion for Cities: Skylines, and dropped in late 2015.
 So why write about it now? Well, I’m building what I hope will be a really useful resource for C:S, especially for people who, like me, are getting into the game late. I think it’s especially useful to look at expansions after six of them because now we know how the game has changed - and how everything fits in. Also, with so much DLC, people often look to prioritise what extras to buy.
 So with that said, let’s get into it.
