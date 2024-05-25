@@ -2,6 +2,6 @@ title: "Love Cities: Skylines"
 logo: 
 description: Guides and tips for everyone's favourite city builder
 google_analytics:
-remote_theme: tomwbond/fast_template
+remote_theme: tomwbond/minimal-mistakes
 plugins:
 - jekyll-remote-theme
