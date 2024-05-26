@@ -1,10 +1,22 @@
+---
+layout: post
+title: "10 Tips for Making Money in Cities: Skylines"
+date: "2018-11-24"
+permalink: "/10-tips-for-making-money-in-cities-skylines/"
+author: "SEPECAT"
+categories: "Tips"
+tags:
+excerpt: "In the early game, it can be difficult to balance the books, especially by expanding too quickly. Here’s a few tips." 
+image: "/images/upgraded-housing.jpg"
+---
+
 # 10 Tips for Making Money in Cities: Skylines
 
 ![Mixed use residential area](/images/mixed-use-residential.jpg)
 
 In Cities: Skylines, money isn’t too hard to make. Once the city reaches a few tens of thousands - assuming it’s relatively well-managed - you’ll probably be sitting on a few million in the bank and have enough to build pretty much whatever you need.
 
-But in the early games, it can be difficult to balance the books. That’s especially true in your first few cities, when it can be quite easy to accidentally tank by expanding too quickly. Here’s a few tips that I hope will help you out.
+But in the early game, it can be difficult to balance the books. That’s especially true in your first few cities, when it can be quite easy to accidentally tank by expanding too quickly. Here’s a few tips that I hope will help you out.
 
 *Note on compatibility: these tips should apply across all platforms (PC, PS4, Xbox, Switch, Mac) of the unmodded game.*
 
@@ -56,7 +68,7 @@ Trains, particularly, are really hard to make profitable. Actually, I’ve never
 
 Buses are the obvious answer here. They use the existing road network, so their main additional cost is the depot. The most routes you add, the more the depot cost is lowered per bus.
 
-I’ve done a rundown of [all the transit type here](guide-every-type-public-transport.md).
+I’ve done a rundown of [all the transit type here](2018-10-03-guide-every-type-public-transport.md).
 
 ## Mothball buildings you’re not using
 

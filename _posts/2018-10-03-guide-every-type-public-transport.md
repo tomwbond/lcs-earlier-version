@@ -1,6 +1,18 @@
+---
+layout: post
+title: "A Guide to Every Type of Public Transport"
+date: "2018-10-13"
+permalink: "/guide-every-type-public-transport/"
+author: "SEPECAT"
+categories: "Guides"
+tags:
+excerpt: "I love Cities: Skylines’ public transport. Especially how satisfying it is to link up different types." 
+image: "/images/monorail.jpg"
+---
+
 # A Guide to Every Type of Public Transport
 
-![Tourism specialisation](images/tourism-specialisation.jpg)
+![Tourism specialisation](/images/tourism-specialisation.jpg)
 
 I love Cities: Skylines’ public transport. Especially how satisfying it is to link up different types.
 
@@ -8,7 +20,7 @@ Good public transit is vital for the health of most cities. Use the right mix an
 
 Here I’ll quickly look at each type of public transport, its general strengths and weaknesses and how it fits into the bigger picture.
 
-I’ve tried to keep this article short, but I’m planning a more detailed and in-depth version. I’ll link to it from here. I've only covered internal lines so I've left out airports and harbours. [My tourism guide](https://www.lovecitiesskylines.com/how-to-bring-more-tourists-to-your-city-in-cities-skylines/) talks about those though.
+I’ve tried to keep this article short, but I’m planning a more detailed and in-depth version. I’ll link to it from here. I've only covered internal lines so I've left out airports and harbours. [My tourism guide](2018-09-01-how-to-bring-more-tourists-to-your-city-in-cities-skylines.md) talks about those though.
 
 *Compatibility: I’m talking about the vanilla unmodded game with all the expansions installed, so the stuff in this guide applies across PC, Mac, Linux, Xbox, PS4 and Switch versions.*
 
@@ -18,7 +30,7 @@ There’s definitely an ‘optimal’ way of doing this and if you’re going fo
 
 ## Think about your public transport as a hierarchy
 
-[![Public transport hierarchy](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/public-transport-hierarchy.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/public-transport-hierarchy.jpg)
+![Public transport hierarchy](/images/public-transport-hierarchy.jpg)
 
 In the best systems, people move up and down the hierarchy. So you could have walk > bus > train > bus > walk. It’s probably not the perfect analogy but you can think of it like a tree. Fast, high-capacity systems are the trunk and people use increasingly localised forms of transit to get to and from their destination.
 
@@ -44,9 +56,9 @@ It’s easy to turn a profit with buses since they’re cheap to run and your fi
 
 ### Tram
 
-[![Public transport: Tram outside the amusement park](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/amusement-park-trams.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/amusement-park-trams.jpg)
+![Public transport: Tram outside the amusement park](/images/amusement-park-trams.jpg)
 
-Arriving in the [Snowfall DLC](https://www.lovecitiesskylines.com/snowfall-2018-review-worth-it/), trams are among my favourite things in the game. They’re also really good. They’re similar to buses and the same principles apply, but they’ve got a few advantages.
+Arriving in the [Snowfall DLC](2018-09-19-snowfall-2018-review-worth-it.md), trams are among my favourite things in the game. They’re also really good. They’re similar to buses and the same principles apply, but they’ve got a few advantages.
 
 Each tram can carry 90 people instead of 30 and as well as running along upgraded roads, you can lay tram-only tracks. That opens up options to create your own tram stations and shortcuts that make trams a much faster option than driving. They also look and sounds great, so there’s that.
 
@@ -56,7 +68,7 @@ The tram depot can also handle your whole city’s needs, but each new line must
 
 ### Walking
 
-[![Footbridge through high density ](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/high-residential-footbridge.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/high-residential-footbridge.jpg)
+![Footbridge through high density ](/images/high-residential-footbridge.jpg)
 
 In any public transport system people walk during the journey: from home to the bus stop, from there to the train, etc. But you can also turn walking into a serious form of local transport.
 
@@ -64,7 +76,7 @@ People seem to be willing to walk further on paths than pavements, and will even
 
 As well as creating paths between roads, you can create whole networks of bridges and underpasses that cut right across neighbourhoods. Done right, you don’t even need a bus or tram line around your suburbs: people will just walk to the nearest medium distance station.
 
-I’ve written about [how to add crosswalks](https://www.lovecitiesskylines.com/easily-add-crosswalks-without-junctions/) and how to use [footpaths to reduce traffic](https://www.lovecitiesskylines.com/reduce-manage-traffic-cities-skylines/).
+I’ve written about [how to add crosswalks](2018-09-02-easily-add-crosswalks-without-junctions.md) and how to use [footpaths to reduce traffic](2018-09-02-reduce-manage-traffic-cities-skylines.md).
 
 ## Medium distance public transit
 
@@ -78,7 +90,7 @@ The metro is quite expensive but once you get close to capacity you can turn a r
 
 ### Monorail
 
-[![Monorail through the city](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/monorail.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/monorail.jpg)
+![Monorail through the city](/images/monorail.jpg)
 
 The monorail is my personal favourite. It’s like an overground metro: the trains have the same 180 capacity and travel at a similar speed. As the metro can't go above ground, so the monorail can't go below. 
 
@@ -92,7 +104,7 @@ That makes it space-efficient and much faster than buses and trams travelling th
 
 ### Cycling
 
-[![Bike and cycle highway](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/bike-cycle-highway.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/bike-cycle-highway.jpg)
+![Bike and cycle highway](/images/bike-cycle-highway.jpg)
 
 Biking, done properly, can be a really good medium-distance form of travel. Give them good routes and cims will travel miles and miles.
 
@@ -100,13 +112,13 @@ Adding bike lanes to your roads is good, but where cycling really shines is when
 
 Bike highways also keep cyclists off the roads, improving speeds for everyone by avoiding them crossing junctions. They’re incredibly effective but the game doesn’t really push you in their direction.
 
-I've written a [guide to biking superhighways](https://www.lovecitiesskylines.com/biking-superhighways-guide-cycling/).
+I've written a [guide to biking superhighways](2018-10-20-biking-superhighways-guide-cycling.md).
 
 ## Long distance
 
 ### Train
 
-[![Separated train lines](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/separate-train-lines.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/separate-train-lines.jpg)
+![Separated train lines](/images/separate-train-lines.jpg)
 
 Trains are fast, high-capacity and shine for long distance travel. Give them long stretches of fairly straight track and they’ll fly past even highway traffic. They are excellent for long distances - think connecting up smaller towns that are 2-3 map tiles apart.
 
@@ -138,7 +150,7 @@ Which isn’t the same as being useless, obviously! They’re great but… niche
 
 ### Cable car
 
-[![Cable cars to nature reserve](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/cable-car-nature-reserve.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/cable-car-nature-reserve.jpg)
+![Cable cars to nature reserve](/images/cable-car-nature-reserve.jpg)
 
 Cable cars can straddle waterways, vault over mountains and ignore otherwise difficult terrain much like blimps.
 
