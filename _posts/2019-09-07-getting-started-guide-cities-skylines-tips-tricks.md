@@ -1,85 +1,103 @@
+---
+layout: post
+title: "Getting Started with Cities: Skylines - 72 Tips and Tricks"
+date: "2019-09-07"
+permalink: "/getting-started-guide-cities-skylines-tips-tricks/"
+author: "SEPECAT"
+categories: "Tips"
+tags:
+excerpt: "Getting started with Cities: Skylines? This guide is full of tips aimed at players who want to learn more about the game’s mechanics."
+image:
+---
+
 # Getting Started with Cities: Skylines - 72 Tips and Tricks
 
 Just getting started with Cities: Skylines? You’re going to love it. It’s an amazing game with a great balance between challenging systems and sandbox gameplay. This guide is full of tips and tricks aimed at beginners but also people who’ve played a bit and want to learn more about the game’s mechanics.
+
 The game is very accessible, but some systems are pretty deep and the way they interact isn’t always immediately apparent. That’s where guides like this one come in. I know it’s a bit of a beast, which is why I’ve added titles to each tip, so you can skim and get more detail on the ones you find interesting.
+
 This guide is based on the game as of late 2018 with all expansions installed (up to and including Parklife). That said, I’ve tried to talk about general principles and avoid too many expansion-specific tips. A lot of the core functionality came in free updates to the game anyway.
+
 I’m referring to the vanilla, unmodded game here - which means everything should apply equally across PC, Mac, PS4, Xbox and Linux versions.
+
 It’s worth saying this isn’t a walkthrough of how to start a city ‘optimally’. The tips in this guide are more like bits of information about many of the game’s core systems to help you get to grips with how they work and apply them in whatever way you like.
-I hope you find it useful! If you do, I’d love it if you gave it a share. If you are buying expansions and DLC and want to support the site (thank you so much!) there are some Humble Bundle links on the [About](https://www.lovecitiesskylines.com/about/) page.
+
+I hope you find it useful! If you do, I’d love it if you gave it a share. If you are buying expansions and DLC and want to support the site (thank you so much!) there are some Humble Bundle links on the [About](/about.md) page.
+
 #### 1. Don’t fret about money. Beyond the early game, you’ll have piles of it
 
-
 Don’t worry much about money. In the very early stages, balancing your budget is a bit tricky, but by the mid-game you’ll usually be sitting on millions in the bank without breaking a sweat. Just keep steadily adding to your population and you’ll soon find residential taxes outpace your growing expenses.
+
 #### 2. To avoid the death wave, aim for steady, even residential growth
 
-
-Make sure you don’t grow residential areas too fast, lest you trigger a death wave. You should aim for steady, even growth every time you build a new development. Add a huge influx of people at once, and they’ll begin to die at once. I’ve written a post about that [here](https://www.lovecitiesskylines.com/death-wave-how-to-avoid/).
+Make sure you don’t grow residential areas too fast, lest you trigger a death wave. You should aim for steady, even growth every time you build a new development. Add a huge influx of people at once, and they’ll begin to die at once. I’ve written a post about that [here](2018-09-03-death-wave-how-to-avoid.md).
 #### 3. Cims go to work and play, but don’t visit friends
 
-
 Your cims travel from home to work, or from home to leisure. They don’t travel within residential areas, say to visit friends. So you don’t need to plan public transport routes to account for that. Focus instead on how they’ll get to work - ideally while leaving the car at home.
+
 #### 4. Make sure your shops can get products from industry or import
 
-
 Your commercial zones need goods to sell. They get them from your industrial areas or imports from outside the city - or both. Always avoid putting residential areas between industry and commerce, or use the Heavy Traffic Ban policy extensively to keep cargo trucks on the roads designed for them.
+
 #### 5. People and cargo choose the fastest route to their destination, so put them on rails
 
+Like people, your cargo will also take the quickest route to its destination. By adding cargo stations in your industrial and commercial areas, you can keep cargo on rails for most of its journey. If it’s faster, imported goods will also arrive by rail. Just make sure you build great road networks around the stations - those things get busy! See more about that [here](2018-09-02-reduce-manage-traffic-cities-skylines.md).
 
-Like people, your cargo will also take the quickest route to its destination. By adding cargo stations in your industrial and commercial areas, you can keep cargo on rails for most of its journey. If it’s faster, imported goods will also arrive by rail. Just make sure you build great road networks around the stations - those things get busy! See more about that [here](https://www.lovecitiesskylines.com/reduce-manage-traffic-cities-skylines/).
 #### 6. Design your road network in a hierarchy. Small roads feed bigger ones
 
-
 The best road networks are a hierarchy. Small roads feed medium roads, medium roads feed large roads, and large roads feed highways, and vice versa. Design your neighbourhoods in a way that helps vehicles step up and step down at either end of their journey, and you’ll avoid a lot of traffic jams.
+
 #### 7. Vehicles get in lane early. To make them use all lanes, put junctions both left and right
 
-
 Cars and trucks don’t automatically spread out into available lanes, which means widening your roads won’t necessarily solve congestion. That’s because vehicles get into the correct lane early on. To encourage multiple lane use, try to arrange your main roads so you’ve got equally important roads on both sides. That way, they’ll spread out.
+
 #### 8. Build fewer, bigger intersections and aim for 3-way, not 4-way junctions
 
-
 Aim to spread out your intersections, and never put them closer than 10 squares apart. That’s where the circular ‘hook points’ show when joining roads together. Instead of 4-way junctions, try alternating 3-ways instead. For big interchanges, think fewer, bigger, and more efficient.
-[![Complex roundabouts](https://www.lovecitiesskylines.com//wp-content/uploads/2018/09/complex-roundabouts.jpg)](https://www.lovecitiesskylines.com//wp-content/uploads/2018/09/complex-roundabouts.jpg)
+![Complex roundabouts](/images/complex-roundabouts.jpg)
+
 #### 9. Build big roundabouts so you have space to add through roads later
 
-
 Roundabouts are useful at the start and in low-volume areas, but they get less efficient with more traffic, at which point you’ll want to incorporate bridges, tunnels, drive-throughs of extra lanes to improve flow. Plan ahead by laying big roundabout so there’s space to develop them later.
+
 #### 10. Design comprehensive one-way systems to get cargo in and out efficiently
 
-
 One-way streets are excellent for areas with lots of cargo traffic. You can create efficient layouts that bring traffic in from the highway, to its destination, and on its way again, without backing up. Just be careful you don’t block access to city services, or let them get stranded the wrong side of the one-way system.
+
 #### 11. Spend time analysing traffic movement and figuring out what’s causing problem areas
 
-
 As your city grows, understanding where your traffic is coming from and how it moves through the city is vital. Design specific routes for types: people, cargo, tourists etc. Don’t be afraid to make car travel really awkward to make people shift onto public transport. Use the Routes overlay to analyse problem areas.
-[![My notepad](https://www.lovecitiesskylines.com//wp-content/uploads/2018/09/notepad-masterplanning.jpg)](https://www.lovecitiesskylines.com//wp-content/uploads/2018/09/notepad-masterplanning.jpg)
+
+![My notepad](/images/notepad-masterplanning.jpg)
+
 #### 12. Keep a notepad and pen handy. Instead of working, sketch out your next master plan
 
-
 Once you fall for the game, keep a notepad and pen with you all the time. I’m serious! You’ll be thinking of ways to lay out junctions, lines and zones. Drawing it out is the best way to figure out how it fits together.
+
 #### 13. Before you add more road capacity, try reducing the traffic on the roads in the first place
 
+Building new roads isn’t the only way of dealing with heavy congestion. Your first port of call should be to reduce demand on your roads - find out how [here](2018-09-02-reduce-manage-traffic-cities-skylines.md). You’d be surprised how far that’ll take you.
 
-Building new roads isn’t the only way of dealing with heavy congestion. Your first port of call should be to reduce demand on your roads - find out how [here](https://www.lovecitiesskylines.com/reduce-manage-traffic-cities-skylines/). You’d be surprised how far that’ll take you.
 #### 14. Public transport is a hierarchy. Help people move up and down it for efficient journeys
 
-
 Public transport is best thought of as a hierarchy. People walk from home to the bus or tram stop, which takes them to the metro or monorail. For long journeys big cities, they’ll catch a train. Not every city needs all tiers. Plenty can get by without any internal train lines at all.
+
 #### 15. The metro is so good, it’s overpowered
 
-
 The metro is overpowered. It’s seriously, seriously good. Super-efficient, manageable noise levels, high-capacity and throughput, reasonable upkeep costs… it’s just great. For me, it lacks a bit of flavour, which is why I’ll often design a city around the monorail, ferries, trams or train lines. But if you’re going for efficiency - or 300k population city, metro will do your heavy lifting.
+
 #### 16. Buses are cheap and plentiful, use them for local loops everywhere
 
-
 Buses are cheap, simple to set up, and the easiest type of transport to make profitable. One depot can spawn a basically unlimited number of buses, so you only need one. The more lines, the smaller the cost of the depot per bus.
+
 #### 17. It’s best to use ferries, blimps and cable cars for small, niche routes
 
-
 Ferries, blimps and cable cars are amazing. I love all of them and would build cities around them if I could - but they’re pretty niche. The main problem for the first two is the low capacity and throughput. It’s really hard to build busy commuter lines with them. Which isn’t to say I haven’t tried. Very hard. And I had a great time doing it.
+
 #### 18. OK, I admit it. The monorail is less efficient than the metro. But it’s still my favourite
 
-
 I love the monorail. So, so much. It’s my favourite type of transit in the game. I’ll build entire cities around it if I can. But in terms of flat out efficiency, the metro is usually the better option. It hurts to say it… but it’s true. If absolutely optimal strategy is your bag, the monorail is usually left out.
+
 #### 19. Don’t duplicate public transport routes - instead put one type perpendicular with another
 
 
