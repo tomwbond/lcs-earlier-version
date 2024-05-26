@@ -1,2 +1,1 @@
-# lcs5
- Yet another attempt
+# LCS 5.

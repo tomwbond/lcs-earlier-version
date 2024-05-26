@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Mass Transit DLC Review"
+date: "2018-10-04"
+permalink: "/mass-transit-review-2018/"
+author: "SEPECAT"
+categories: "DLC Reviews"
+tags:
+excerpt: "Mass Transit is the fourth expansion for Cities: Skylines and is often the one people recommend getting first. It’s pretty easy to see why." 
+image: "/images/blimp-mass-transit-archipelago.jpg"
+---
+
 # Guide to Efficient City Cargo Trains
 
 [![Cargo hub at night](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/cargo-hub-night.jpg)](https://www.lovecitiesskylines.com/wp-content/uploads/2018/10/cargo-hub-night.jpg)
