@@ -22,7 +22,7 @@ Here, I’ll try to explain why a death wave happens and what you can do about i
 
 Now, in most cases, a death wave isn’t caused by negligence. You can sicken people with polluted water or noise and ground pollution in their neighbourhoods. It’s also possible to not have enough deathcare coverage. But typically, that’s not what’s going on.
 
-### Why is everyone dying all of a sudden?
+## Why is everyone dying all of a sudden?
 
 ![Cemetery serving the suburbs](/images/cemetery-cities.jpg)
 
@@ -32,7 +32,7 @@ In Cities: Skylines, people move to your city and live out their lives. They go 
 
 What happens when you rapidly expand the city is you attract a significant influx of new people. Unfortunately, a lot of these people are about the same age, which means they die about the same time. And that’s what a death wave is: the legacy of too-fast expansion somewhere in the history of the city.
 
-### How to deal with a death wave that’s in progress
+## How to deal with a death wave that’s in progress
 
 ![Death wave graph](/images/death-wave-graph.jpg)
 
@@ -47,7 +47,7 @@ As your population plummets, you’ll see shops and factories complaining about 
 
 Instead, just allow your population to rebuild as naturally as you can. Even growth mean even death rates.
 
-### How to avoid a death wave in the first place
+## How to avoid a death wave in the first place
 
 ![Checking crematorium capacity](/images/crematorium-capacity.jpg)
 
@@ -60,7 +60,7 @@ It’s also important to maintain good service coverage. Check the Deathcare ove
 
 You can also get a more granular sense of what’s happening by clicking on your cemeteries and crematoriums. Check how many of their hearses are in use. Are they all out?  If so, it’s probably time to add a new building.
  
-### When all else fails
+## When all else fails
 
 ![How to start a death wave](/images/high-density-zoning.jpg)
 
@@ -68,6 +68,6 @@ You can also get a more granular sense of what’s happening by clicking on your
 
 If you keep experiencing death waves and have tried everything else, you could try unzoning your housing gradually, and rezoning it slowly. Essentially, you’d be rebuilding your city to achieve even growth. It would take ages, so it depends how invested you are as to whether that’s worth it.
 
-### Roundup
+## Roundup
 
 I hope that helps! In summary: grow your population evenly and steadily. Keep an eye on deathcare coverage and capacity. And don’t react to death waves with new residential zoning!
