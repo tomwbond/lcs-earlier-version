@@ -20,7 +20,7 @@ So why write about it now? Well, I’m building what I hope will be a really use
 
 So with that said, let’s get into it.
 
-### What’s the big story?
+## What’s the big story?
 
 Visually, the most striking addition in After Dark is the day/night cycle. Before that, Cities: Skylines played out entirely during the day. If you’ve played the game for a few hours you’ll notice that even without After Dark, you still enjoy those beautiful sunsets and atmospheric nights. That stuff got released for free alongside.
 
@@ -28,7 +28,7 @@ The free content included night - obviously - but also adjusted activity through
 
 The daily cycle changes the rhythm of the game, with slower traffic at night and some areas, like your industry, working below full capacity. Crime goes up at night, as does activity in your leisure commercial areas. The game also got separate budget sliders for day and night.
 
-### Tourism and Leisure commercial specialisations
+## Tourism and Leisure commercial specialisations
 
 ![Tourism specialisation](images/tourism-specialisation.jpg)
 
@@ -44,7 +44,7 @@ Build a dingy resort along the waterfront or fill your city centre with towering
 
 I love building cities for tourism [my tourism guide](2018-09-01-how-to-bring-more-tourists-to-your-city-in-cities-skylines.md) and After Dark makes major contributions to that, both mechanically and visually. 
 
-### Transport hubs and public transport options
+## Transport hubs and public transport options
 
 ![Cargo hub dealing with cargo from water, rail and road](images/cargo-hub.jpg)
 
@@ -56,7 +56,7 @@ I don’t get tons of use out of the bus terminal. I tend to run buses on smalle
 
 Taxis are a whole new type of semi-autonomous transport. Put down a depot then stick taxi ranks around the place, especially in tourist areas, to give your visitors another option to get to their destination. According to the devs, this encourages tourists to stay in the city longer - therefore spending more money.
 
-### Parks, plazas and unique buildings
+## Parks, plazas and unique buildings
 
 ![Skatepark in the city](images/skatepark.jpg)
 
@@ -66,7 +66,7 @@ You get a whole new set of waterfront buildings including Jet Ski Rental, Restau
 
 Talking of parks, the Skatepark is my favourite. It’s really versatile - aesthetically it fits in almost anywhere and functionally it’s great. It’s well-priced with low upkeep, wide effect radius and a small footprint. It’s really, really good!
 
-### Cycling and bike paths, and bus lanes
+## Cycling and bike paths, and bus lanes
 
 ![Bike lanes taking traffic off the street](images/bike-lanes.jpg)
 
